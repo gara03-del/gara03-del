@@ -279,13 +279,12 @@ Actively building full stack web applications and exploring cybersecurity fundam
 ---
 
 <br/>
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=gara03-del&show_icons=true&theme=radical&hide_border=true&bg_color=0f0524&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF&ring_color=7C3AED" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gara03-del&theme=radical&hide_border=true&background=0f0524&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=gara03-del&theme=radical&hide_border=true&background=0f0524&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
 
 <br/>
 
