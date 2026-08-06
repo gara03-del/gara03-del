@@ -301,7 +301,7 @@ Actively building full stack web applications and exploring cybersecurity fundam
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gara03-del/gara03-del/main/github-trophy.svg" />
+<img src="https://raw.githubusercontent.com/gara03-del/gara03-del/main/trophy.svg" />
 
 </div>
 
