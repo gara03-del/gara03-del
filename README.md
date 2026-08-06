@@ -378,8 +378,8 @@ current_focus:
 <a href="https://github.com/gara03-del">
   <img src="https://img.shields.io/badge/GitHub-gara03--del-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0b2e"/>
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-Add%20Your%20Link-4C1D95?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a0b2e"/>
+<a href="https://wa.me/218926797556?text=السلام%20عليكم%20،%20حاب%20نتواصل%20معاك." target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </div>
