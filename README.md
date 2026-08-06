@@ -310,7 +310,6 @@ Actively building full stack web applications and exploring cybersecurity fundam
 ---
 
 <br/>
-
 ## 📈 Contribution Activity
 
 <div align="center">
