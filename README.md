@@ -301,7 +301,7 @@ Actively building full stack web applications and exploring cybersecurity fundam
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gara03-del&theme=radical&no-frame=true&no-bg=false&margin-w=8&column=7" />
+<img src="https://raw.githubusercontent.com/gara03-del/gara03-del/main/github-trophy.svg" />
 
 </div>
 
