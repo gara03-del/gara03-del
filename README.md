@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2d1b69,100:6d28d9&height=280&section=header&text=Mohammed%20Almargny&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full%20Stack%20%26%20Cybersecurity&descAlignY=55&descSize=18&descColor=C4B5FD" width="100%"/>
+<img src="https://j.top4top.io/p_3870bzyqx1.jpeg" width="100%"/>
 
 <br/>
 
