@@ -331,7 +331,7 @@ Actively building full stack web applications and exploring cybersecurity fundam
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gara03-del/gara03-del/main/assets/github-user-contribution.svg" width="100%"/>
+<img src="github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
